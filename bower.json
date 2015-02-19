@@ -1,0 +1,21 @@
+{
+  "name": "d3-starter",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jsoverson/d3-starter",
+  "authors": [
+    "Jarrod Overson <joverson@shapesecurity.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "3.4.4",
+    "d4": "~0.8.16"
+  }
+}
